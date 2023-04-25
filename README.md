@@ -57,3 +57,6 @@ points(
 
 # Adjust the margins
 par(mar = c(5, 4, 4, 6) + 0.1)
+
+![image](https://user-images.githubusercontent.com/102430722/234251815-f141cce4-97a8-4343-8d65-ac9ec60da8d8.png)
+
